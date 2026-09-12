@@ -1,4 +1,5 @@
 # Introduction to CUDA C/C++
+<img width="265" height="315" alt="image" src="https://github.com/user-attachments/assets/31919c54-a559-4935-b952-036900620086" />
 
 This repository collects the material for the interactive course *Introduction to CUDA C/C++*.
 
