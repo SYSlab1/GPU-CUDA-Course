@@ -1,12 +1,5 @@
-# Introduction to CUDA C/C++
 <img width="265" height="315" alt="image" src="https://github.com/user-attachments/assets/31919c54-a559-4935-b952-036900620086" />
-
 This repository collects the material for the interactive course
-A copy of all profiles obtained is also included in this repository.
-
-## Course Content
-
-All course material is collected and available at [https://github.com/nhr-fau-training/introduction-to-cuda](https://github.com/nhr-fau-training/introduction-to-cuda) (this repository).
 
 It follows this general agenda:
 
