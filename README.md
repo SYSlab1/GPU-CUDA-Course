@@ -1,17 +1,7 @@
 # Introduction to CUDA C/C++
 <img width="265" height="315" alt="image" src="https://github.com/user-attachments/assets/31919c54-a559-4935-b952-036900620086" />
 
-This repository collects the material for the interactive course *Introduction to CUDA C/C++*.
-
-## Prerequisites
-
-Access to a system with a recent Nvidia GPU, as well as the Nvidia HPC SDK installed.
-
-Profiling data will be obtained on that system.
-The generated report files can then be visualized and analyzed locally.
-This requires a local installation of Nsight Systems.
-It can either be installed [stand-alone](https://developer.nvidia.com/nsight-systems/get-started) (might require a free NVIDIA developer account), or bundled in the [CUDA toolkit](https://developer.nvidia.com/cuda-downloads) or [Nvidia HPC SDK](https://developer.nvidia.com/hpc-sdk-downloads).
-
+This repository collects the material for the interactive course
 A copy of all profiles obtained is also included in this repository.
 
 ## Course Content
