@@ -15,14 +15,6 @@ This course also includes the following additional material:
 7. [Debugging](./07-debugging.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhr-fau-training/introduction-to-cuda/blob/main/07-debugging.ipynb)
 1. [Streams](./08-streams.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhr-fau-training/introduction-to-cuda/blob/main/08-streams.ipynb)
 
-## Start
-
-To start, clone the repository on your target system (and on your notebook/ workstation to visualize the profiles locally)
-```bash
-git clone https://github.com/nhr-fau-training/introduction-to-cuda.git
-```
-
-Then head over to the [Introduction](./01-introduction.ipynb) notebook.
 
 ## Google Colab
 
