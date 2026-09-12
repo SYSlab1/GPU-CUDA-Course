@@ -3,7 +3,7 @@
 This repository collects the material for the interactive course
 
 It follows this general agenda:
-
+0. [Introduction](./00-introduction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SYSlab1/introduction-to-cuda/blob/main/00-introduction.ipynb)
 1. [Introduction](./01-introduction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhr-fau-training/introduction-to-cuda/blob/main/01-introduction.ipynb)
 1. [First GPU Application](./02-first-gpu-application.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhr-fau-training/introduction-to-cuda/blob/main/02-first-gpu-application.ipynb)
 1. [Porting Applications](./03-porting-applications.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhr-fau-training/introduction-to-cuda/blob/main/03-porting-applications.ipynb)
